@@ -91,7 +91,7 @@
 #borda-especial {
 	border: solid 3px darkgray;
 	border-radius: 5px;
-	width: 24rem;
+	width: 20rem;
 }
 
 #borda-especial:hover {
