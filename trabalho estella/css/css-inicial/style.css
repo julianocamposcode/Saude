@@ -156,7 +156,7 @@ body {
 
 .titulos {
 	display: inline-block;
-	margin: 1rem;
+	margin: 2rem auto;
 	padding-bottom: 4rem;
 	padding: 2rem;
 	background: rgba(0 ,0, 0, .7);
